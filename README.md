@@ -67,7 +67,8 @@ A collection of android security related resources.
 23. [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
 24. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 25. [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-26. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+27. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+28. [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor
 
 ### App Vulnerability Scanners
 
